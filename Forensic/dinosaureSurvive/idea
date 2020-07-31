@@ -1,7 +1,8 @@
-
+flag-6b96e212b3f85968db654f7892f06122
 
 idea:
 according to title must be old format of image file
 EWF/Expert Witness/EnCase image = E01 file type
 
 solution:
+using the ewf tool, we had a file inside that applied with strings command, we got the flag.
