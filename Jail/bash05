@@ -1,0 +1,10 @@
+FLAG-PcttpB5gR3faGUnuf6i1VP90ZMj42IEn
+
+
+ideas:
+if [[ $1 == *[bdksctr'?''*''/''<''>''&''$']* ]]
+python + webserver
+eval with hex
+eval eval \`printf \"\\x70\\x79\\x74\\x68\\x6F\\x6E\"\`
+echo -e "\\x70\\x79\\x74\\x68\\x6F\\x6E"
+assembly

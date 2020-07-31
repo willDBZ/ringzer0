@@ -1,0 +1,11 @@
+FLAG-OTQKB0274fwtxk3v2rTLCd0l5v7KNp7F
+
+
+
+
+ideas:
+if [[ $1 == *[bdksc'/''<''>''&''$']* ]]
+python + /bin/bash
+backtish ``
+cannot redirect
+standardOutput1 is redirected to /dev/null, then we can fetch /dev/null

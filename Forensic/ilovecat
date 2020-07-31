@@ -1,0 +1,14 @@
+
+FLAG-0K14eDrm4t5g7KD54X8Dl3NNcZ956oCK
+
+guess: 
+related to how "cat" command works
+there's a user called cat
+try whoami
+if we're root, we might be able to become cat?
+but I am cat
+there's a bash->/bin/bash link to use bash
+combine ls -R + grep
+
+solution:
+it was indeed related to cat function!
